@@ -1,5 +1,5 @@
 # Landing-Page-01
-Landing Page Project :- its a simple but modern landing page fully Responsive also just by using HTML only.
+Landing Page Project :- its a simple but modern landing page fully Responsive also just by using HTML and CSS Grid only.
 # Live-Preview
 https://vasusrivastav.github.io/Landing-Page-01/
 # Web-view
